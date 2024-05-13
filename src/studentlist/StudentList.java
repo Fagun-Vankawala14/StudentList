@@ -22,10 +22,13 @@ public class StudentList {
         s2.setName("Palak Shah");
         Student s3 = new Student();
         s3.setName("Megh Vankawala");
+        Student s4 = new Student();
+        s3.setName("Megh Vankawala");
        
         studentList[0] = s1;
         studentList[1] = s2;
         studentList[2] = s3;
+        studentList[3] = s4;
         
         //fill in 4 student names before running
         for (Student s : studentList) {
