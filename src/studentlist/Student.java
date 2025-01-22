@@ -5,6 +5,7 @@
 package studentlist;
 
 /**
+ * Email: fagun.vankawala@sheridancollege.ca
  * Date: 22/01/2025
  * @author fagun
  */
